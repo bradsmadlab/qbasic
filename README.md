@@ -1,1 +1,2 @@
-# qbasic
+# qbasic programs
+Anagram exercise
